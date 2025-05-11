@@ -53,6 +53,7 @@ public class ProdutoDAOTest {
 		produto.setDescricao("Produto 1");
 		produto.setNome("Produto 1");
 		produto.setValor(BigDecimal.TEN);
+		produto.setMarca("Marca 1");
 		produtoDao.cadastrar(produto);
 		return produto;
 	}

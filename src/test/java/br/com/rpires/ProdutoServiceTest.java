@@ -38,6 +38,7 @@ public class ProdutoServiceTest {
 		produto.setCodigo("A1");
 		produto.setDescricao("Produto 1");
 		produto.setNome("Produto 1");
+		produto.setMarca("Marca 1");
 		produto.setValor(BigDecimal.TEN);
 	}
 	
