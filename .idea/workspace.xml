@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e094bc3c-d14b-4b80-ad44-30ba6be23494" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JPA_1_0_JPA_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplo-jpa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ExemploVendasMod30.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/percistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/anotacao/ColunaTabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/anotacao/ColunaTabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/anotacao/Tabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/anotacao/Tabela.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/anotacao/TipoChave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/anotacao/TipoChave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ClienteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ClienteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ProdutoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ProdutoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ProdutoQuantidadeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/ProdutoQuantidadeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/VendaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/factory/VendaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/generic/jdbc/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ilima/dao/generic/jdbc/ConnectionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/AllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/AllTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/ClienteDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/ClienteDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/ClienteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/ClienteServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/ProdutoDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/ProdutoDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/ProdutoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/ProdutoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/ilima/dao/ProdutoDaoMock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/ilima/dao/ProdutoDaoMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anotacao/ColunaTabela.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anotacao/ColunaTabela.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anotacao/Tabela.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anotacao/Tabela.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/anotacao/TipoChave.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/anotacao/TipoChave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/ClienteDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/ClienteDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IClienteDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IClienteDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IProdutoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IProdutoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IVendaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/IVendaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/Persistente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/Persistente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/ProdutoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/ProdutoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/VendaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/VendaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ClienteFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ClienteFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ProdutoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ProdutoFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ProdutoQuantidadeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/ProdutoQuantidadeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/VendaFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/factory/VendaFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/GenericDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/GenericDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/IGenericDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/IGenericDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/SingletonMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/SingletonMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jdbc/ConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jdbc/ConnectionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jpa/GenericJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jpa/GenericJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jpa/IGenericJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/generic/jpa/IGenericJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/ClienteJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/ClienteJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IClienteJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IClienteJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IProdutoJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IProdutoJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IVendaJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/IVendaJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/ProdutoJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/ProdutoJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/VendaJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/dao/jpa/VendaJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/ProdutoQuantidade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/ProdutoQuantidade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Venda$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Venda$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Venda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/Venda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ClienteJpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ClienteJpa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ProdutoJpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ProdutoJpa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ProdutoQuantidadeJpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/ProdutoQuantidadeJpa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/VendaJpa$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/VendaJpa$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/VendaJpa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/domain/jpa/VendaJpa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/DAOException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/DAOException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/MaisDeUmRegistroException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/MaisDeUmRegistroException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TableException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TableException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TipoChaveNaoEncontradaException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TipoChaveNaoEncontradaException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TipoElementoNaoConhecidoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/exceptions/TipoElementoNaoConhecidoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/ClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/ClienteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/IClienteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/IClienteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/IProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/IProdutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/ProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/ProdutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/GenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/GenericService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/IGenericService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/IGenericService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/jpa/GenericJpaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/jpa/GenericJpaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/jpa/IGenericJpaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ilima/services/generic/jpa/IGenericJpaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/AllTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/AllTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ClienteDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ClienteDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ClienteServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ClienteServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ProdutoDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ProdutoDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ProdutoServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/ProdutoServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/VendaDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/VendaDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/ClienteDaoMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/ClienteDaoMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/ProdutoDaoMock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/ProdutoDaoMock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/VendaExclusaoJpaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/dao/VendaExclusaoJpaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/ClienteJpaDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/ClienteJpaDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/ProdutoJpaDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/ProdutoJpaDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/VendaJpaDAOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/ilima/jpa/VendaJpaDAOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/AllTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/ClienteDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/ClienteServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/ProdutoDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/ProdutoServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/VendaDAOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/dao/ClienteDaoMock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/rpires/dao/ProdutoDaoMock.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="30bpcXfKDaXpKkqhrjnhyZYVX6J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AllTests.executor": "Run",
+    "JUnit.ClienteJpaDaoTest.executor": "Run",
+    "JUnit.ProdutoJpaDAOTest.executor": "Run",
+    "JUnit.VendaJpaDAOTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15494792",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Back-end Java EBAC\projeto3_mod30\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VendaJpaDAOTest">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplo-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ilima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ilima" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ilima.AllTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteJpaDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplo-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ilima.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ilima.jpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ilima.jpa.ClienteJpaDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoJpaDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplo-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ilima.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ilima.jpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ilima.jpa.ProdutoJpaDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendaJpaDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exemplo-jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.ilima.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.ilima.jpa" />
+      <option name="MAIN_CLASS_NAME" value="br.com.ilima.jpa.VendaJpaDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VendaJpaDAOTest" />
+        <item itemvalue="JUnit.ProdutoJpaDAOTest" />
+        <item itemvalue="JUnit.ClienteJpaDaoTest" />
+        <item itemvalue="JUnit.AllTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e094bc3c-d14b-4b80-ad44-30ba6be23494" name="Changes" comment="" />
+      <created>1753906207542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753906207542</updated>
+      <workItem from="1753906209135" duration="6426000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

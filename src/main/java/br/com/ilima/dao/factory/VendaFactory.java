@@ -10,10 +10,6 @@ import br.com.ilima.domain.Cliente;
 import br.com.ilima.domain.Venda;
 import br.com.ilima.domain.Venda.Status;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class VendaFactory {
 
 	public static Venda convert(ResultSet rs) throws SQLException {

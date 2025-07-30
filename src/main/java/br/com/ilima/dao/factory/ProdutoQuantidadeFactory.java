@@ -9,10 +9,6 @@ import java.sql.SQLException;
 import br.com.ilima.domain.Produto;
 import br.com.ilima.domain.ProdutoQuantidade;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoQuantidadeFactory {
 
     public static ProdutoQuantidade convert(ResultSet rs) throws SQLException {

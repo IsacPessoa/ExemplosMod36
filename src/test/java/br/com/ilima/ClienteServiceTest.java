@@ -15,10 +15,6 @@ import br.com.ilima.exceptions.TipoChaveNaoEncontradaException;
 import br.com.ilima.services.ClienteService;
 import br.com.ilima.services.IClienteService;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ClienteServiceTest {
 	
 	private IClienteService clienteService;

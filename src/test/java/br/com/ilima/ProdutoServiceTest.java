@@ -17,10 +17,6 @@ import br.com.ilima.exceptions.TipoChaveNaoEncontradaException;
 import br.com.ilima.services.IProdutoService;
 import br.com.ilima.services.ProdutoService;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoServiceTest {
 
 	private IProdutoService produtoService;

@@ -9,10 +9,6 @@ import br.com.ilima.dao.IProdutoDAO;
 import br.com.ilima.domain.Produto;
 import br.com.ilima.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoDaoMock implements IProdutoDAO {
 
 	@Override

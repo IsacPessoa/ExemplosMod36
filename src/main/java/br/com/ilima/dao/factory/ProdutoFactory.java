@@ -8,10 +8,6 @@ import java.sql.SQLException;
 
 import br.com.ilima.domain.Produto;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoFactory {
 
 	

@@ -22,10 +22,6 @@ import br.com.ilima.exceptions.MaisDeUmRegistroException;
 import br.com.ilima.exceptions.TableException;
 import br.com.ilima.exceptions.TipoChaveNaoEncontradaException;
 
-/**
- * @author rodrigo.pires
- *
- */
 public class ProdutoDAOTest {
 	
 	private IProdutoDAO produtoDao;
